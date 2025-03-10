@@ -43,20 +43,14 @@
   <img src="web3dotjs-color.svg" alt="Web3.py" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</div>
 
 ## 📫 Connect With Me
 <div align="center">
-  <a href="YOUR_TELEGRAM_LINK">
-    <img src="path_to_telegram.png" alt="Telegram" width="40" height="40"/>
+  <a href="t.me/stayzer">
+    <img src="telegram-color.svg" alt="Telegram" width="40" height="40"/>
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="path_to_linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="mailto:stayzer2@gmail.com">
+    <img src="gmail-color.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <!-- Добавьте другие социальные сети по желанию -->
 </div>
