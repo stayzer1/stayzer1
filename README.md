@@ -8,7 +8,7 @@
 
 ### Frontend
 <p align="left">
-  <img src="img/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="path_to_ts.png" alt="TypeScript" width="40" height="40"/>
   <img src="path_to_react.png" alt="React" width="40" height="40"/>
   <img src="path_to_vue.png" alt="Vue" width="40" height="40"/>
