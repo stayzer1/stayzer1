@@ -46,7 +46,7 @@
 
 ## 📫 Connect With Me
 <div align="center">
-  <a href="t.me/stayzer">
+  <a href="t.me/stayzer" style="margin-right:20px">
     <img src="telegram-color.svg" alt="Telegram" width="40" height="40"/>
   </a>
   <a href="mailto:stayzer2@gmail.com">
@@ -55,6 +55,6 @@
   <!-- Добавьте другие социальные сети по желанию -->
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views"/>
 </div>
