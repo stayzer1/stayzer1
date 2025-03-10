@@ -1,10 +1,70 @@
-<h1 align="center">Hi 👋, I'm stayzer</h1>
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет,+я+Full-Stack+Разработчик!;Добро+пожаловать+в+мой+профиль!&center=true&size=30">
+</div>
+
+<br>
+
+## 🛠 Технологический стек
+
+### Frontend
 <p align="left">
+  <img src="path_to_js.png" alt="JavaScript" width="40" height="40"/>
+  <img src="path_to_ts.png" alt="TypeScript" width="40" height="40"/>
+  <img src="path_to_react.png" alt="React" width="40" height="40"/>
+  <img src="path_to_vue.png" alt="Vue" width="40" height="40"/>
+  <img src="path_to_html.png" alt="HTML5" width="40" height="40"/>
+  <img src="path_to_css.png" alt="CSS3" width="40" height="40"/>
+  <img src="path_to_scss.png" alt="SCSS" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Backend
+<p align="left">
+  <img src="path_to_python.png" alt="Python" width="40" height="40"/>
+  <img src="path_to_fastapi.png" alt="FastAPI" width="40" height="40"/>
+  <img src="path_to_mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="path_to_postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stayzer1&show_icons=true&locale=en&layout=compact" alt="stayzer1" /></p>
+### Инструменты автоматизации и тестирования
+<p align="left">
+  <img src="path_to_selenium.png" alt="Selenium" width="40" height="40"/>
+  <img src="path_to_playwright.png" alt="Playwright" width="40" height="40"/>
+</p>
 
+### Инструменты сборки
+<p align="left">
+  <img src="path_to_webpack.png" alt="Webpack" width="40" height="40"/>
+  <img src="path_to_gulp.png" alt="Gulp" width="40" height="40"/>
+</p>
+
+### Web3 разработка
+<p align="left">
+  <img src="path_to_web3.png" alt="Web3.py" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Статистика
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+</div>
+
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak stats"/>
+</div>
+
+## 📫 Связаться со мной
+<div align="center">
+  <a href="YOUR_TELEGRAM_LINK">
+    <img src="path_to_telegram.png" alt="Telegram" width="40" height="40"/>
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="path_to_linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <!-- Добавьте другие социальные сети по желанию -->
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views"/>
+</div>
