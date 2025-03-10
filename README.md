@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/stayzer1/stayzer1/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <br>
