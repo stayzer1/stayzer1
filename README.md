@@ -43,6 +43,12 @@
   <img src="web3dotjs-color.svg" alt="Web3.py" width="40" height="40"/>
 </p>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stayzer1&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stayzer1&layout=compact&theme=radical"/>
+</div>
 
 ## 📫 Connect With Me
 <div align="center">
