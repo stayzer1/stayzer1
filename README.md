@@ -28,8 +28,8 @@
 
 ### Testing & Automation
 <p align="left">
-  <img src="path_to_selenium.png" alt="Selenium" width="40" height="40"/>
-  <img src="path_to_playwright.png" alt="Playwright" width="40" height="40"/>
+  <img src="selenium-color.svg" alt="Selenium" width="40" height="40"/>
+  <img src="Playwright--Streamline-Svg-Logos.svg" alt="Playwright" width="40" height="40"/>
 </p>
 
 ### Build Tools
