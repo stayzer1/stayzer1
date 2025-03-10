@@ -2,10 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F7E68E&width=435&lines=Hey%2C+I'm+Full-Stack+developer!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/stayzer1/stayzer1/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
 <br>
 
 ## 👨‍💻 About Me
@@ -70,4 +66,10 @@ me = Developer()
 
 <div align="center" >
   <img src="https://komarev.com/ghpvc/?username=stayzer1&color=blueviolet" style="margin-top: 20px" alt="Profile views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
