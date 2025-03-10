@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F7E68E&width=435&lines=Hey%2C+I'm+Full-Stack+developer!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F7E68E&width=435&lines=Hey%2C+I'm+Full-Stack+developer!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 <br>
