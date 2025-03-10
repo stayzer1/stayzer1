@@ -34,13 +34,13 @@
 
 ### Build Tools
 <p align="left">
-  <img src="path_to_webpack.png" alt="Webpack" width="40" height="40"/>
-  <img src="path_to_gulp.png" alt="Gulp" width="40" height="40"/>
+  <img src="webpack-color.svg" alt="Webpack" width="40" height="40"/>
+  <img src="gulp-color.svg" alt="Gulp" width="40" height="40"/>
 </p>
 
 ### Web3 Development
 <p align="left">
-  <img src="path_to_web3.png" alt="Web3.py" width="40" height="40"/>
+  <img src="web3dotjs-color.svg" alt="Web3.py" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Statistics
