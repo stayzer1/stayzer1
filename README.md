@@ -19,10 +19,11 @@
 
 ### Backend
 <p align="left">
-  <img src="path_to_python.png" alt="Python" width="40" height="40"/>
-  <img src="path_to_fastapi.png" alt="FastAPI" width="40" height="40"/>
-  <img src="path_to_mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="path_to_postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="python-color.svg" alt="Python" width="40" height="40"/>
+  <img src="fastapi-color.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="nodedotjs-color.svg" alt="Node.js" width="40" height="40"/>
+  <img src="mongodb-color.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="postgresql-color.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ### Testing & Automation
